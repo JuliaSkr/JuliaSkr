@@ -1,16 +1,18 @@
 # Julia
 
-Researcher in machine learning and computational linguistics. I work on cross-lingual knowledge representation, Russian-language models, and cultural aspects of large language models.
+Some knowledge travels between languages. Some doesn't.
 
-Based at HSE (Higher School of Economics).
+I study the gap — the culture-specific knowledge that multilingual LLMs fail to carry across.
+
+Researcher in machine learning and computational linguistics at HSE.
 
 ## Interests
 
-- Machine learning and NLP
+- ML & NLP
 - Computational linguistics
-- Cross-lingual and multilingual LLMs
-- Russian NLP: actant detection, collocation extraction, corpus linguistics
-- Evaluation of LLMs on language- and culture-sensitive tasks
-- Graph neural networks and knowledge graph embeddings
+- Cross-lingual & multilingual LLMs
+- Russian NLP: actants, collocations, corpora
+- Evaluating LLMs on culture-sensitive tasks
+- Graph neural networks & knowledge-graph embeddings
 
-The repositories below contain my research code, datasets, and coursework.
+The repositories below hold my research code, datasets, and coursework.
