@@ -1,4 +1,4 @@
-# Julia 👋
+ 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1000&color=2F81F7&lines=Cross-lingual+NLP;Cultural+knowledge+in+LLMs;Russian+corpora+%26+collocations;Computational+linguistics)](https://git.io/typing-svg)
 
